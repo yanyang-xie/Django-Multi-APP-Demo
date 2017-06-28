@@ -1,5 +1,4 @@
-### #### **Django demo project with more apps**
-[========]
+**Django demo project with more apps**
 
 1. Project的base url中加入app的url pattern
 ```yaml
